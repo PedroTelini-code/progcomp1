@@ -47,3 +47,16 @@ img {
     border-radius: 10px;
     margin-right: 10px;
 }
+
+.container {
+    width: 80%;
+    margin: 20px auto; /* 20px em cima e em embaixo e automático à esquerda e direita*/
+    background: white;
+    padding: 20 px;
+    border-radius: 10px;
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+}
